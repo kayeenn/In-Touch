@@ -1,5 +1,5 @@
 # In-Touch
-Project of the discipline of Web technology
+Project of the discipline Web-Technologies
 
 ### Here is layout of our project on figma:
 
