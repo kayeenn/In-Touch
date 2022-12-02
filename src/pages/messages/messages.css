@@ -1,0 +1,13 @@
+.Content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vert {
+  height: 1250px;
+  width: 2px;
+  background-color: black;
+  color: black;
+  border: none;
+}

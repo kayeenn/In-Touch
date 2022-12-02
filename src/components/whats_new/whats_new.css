@@ -1,0 +1,42 @@
+.Whats_new {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 39px;
+}
+.Whats_new_wrapper {
+    width: 678px;
+    height: 47px;
+    border-radius: 25px;
+    background-color: #D9D9D9;
+    display: flex;
+}
+.WN_profile_ava {
+    margin-left: 11px;
+    margin-top: 6px;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+}
+.Whats_new_input {
+    margin-top: 14px;
+    height: 19px;
+    margin-left: 16px;
+    background-color: #D9D9D9;
+    border: none;
+    width: 430px;
+}
+.icons {
+    margin-top: 14px;
+    margin-left: 15px;
+    width: 22px;
+    height: 22px;
+}
+.Whats_new_hr {
+    margin-top: 8px;
+    margin-left: 15px;
+    margin-bottom: 7px;  
+    border: none;
+    width: 2px;
+    background-color: black;
+}

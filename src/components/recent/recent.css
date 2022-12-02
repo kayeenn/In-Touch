@@ -1,0 +1,62 @@
+.Recent {
+  padding-top: 80px;
+  background-color: #d9d9d9;
+  height: 442px;
+  justify-content: center;
+  display: flex;
+}
+
+.Recent_post {
+  background-color: #fff;
+  height: 325px;
+  width: 556px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.Recent_post_header {
+  height: 45px;
+  border-radius: 20px 20px 0 0;
+  display: flex;
+}
+
+.Recent_post_header img {
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  margin-left: 17px;
+  margin-top: 5px;
+}
+
+.Recent_post_header p {
+  margin-top: 15px;
+  margin-left: 22px;
+  font-size: 12px;
+}
+
+.Recent_post_content {
+  height: 235px;
+}
+
+.Recent_post_content img {
+  height: 235px;
+  width: 556px;
+  z-index: 30;
+}
+
+.Reactions {
+  width: 233px;
+  height: 33px;
+  margin-top: -35px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 165px;
+}
+.Reactions button {
+  z-index: 29;
+  background: transparent;
+  border: none;
+}
+.Reactions_count {
+  z-index: 30;
+}

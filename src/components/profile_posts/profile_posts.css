@@ -1,0 +1,174 @@
+.Profile_post {
+  height: 367px;
+  width: 570px;
+  margin-bottom: 59px;
+}
+.Profile_post_header {
+  border-radius: 20px 20px 0 0;
+  background-color: #870a30;
+  height: 85px;
+  color: #fff;
+  display: flex;
+}
+.Profile_post_content {
+  background-color: #d9d9d9;
+  border-radius: 0 0 20px 20px;
+  height: 282px;
+}
+.Profile_post_header img {
+  border-radius: 0 0 20px 0;
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  margin-left: 13px;
+  margin-top: 9px;
+}
+.Profile_post_un_loc {
+  margin-left: 16px;
+}
+.Profile_post_username {
+  margin-top: 13px;
+  font-size: 12px;
+}
+.Profile_post_location {
+  margin-top: 8px;
+  font-size: 10px;
+  width: 120px;
+}
+.Profile_post_time {
+  margin-left: 290px;
+  margin-top: 16px;
+  font-size: 8px;
+  text-decoration: underline;
+}
+.Profile_post_content {
+  display: flex;
+}
+.Profile_post_content_img {
+  border-radius: 0 0 0 20px;
+  height: 282px;
+  width: 411px;
+}
+.Profile_post_content_text_title {
+  margin-left: 9px;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+.Profile_post_content_text_hr {
+  border: none;
+  height: 0.5px;
+  margin-top: 16px;
+  margin-left: 23px;
+  margin-right: 17px;
+  background-color: black;
+}
+.leave_comment {
+  margin-top: 6px;
+  margin-left: 10px;
+  border: none;
+  width: 142px;
+  height: 21px;
+  border-radius: 15px;
+  font-size: 10px;
+  padding-left: 9px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.Profile_post_content_comments_shaq {
+  background-color: #fff;
+  margin-top: 9px;
+  margin-left: 13px;
+  width: 138px;
+  height: 47px;
+  border-radius: 10px;
+}
+.Profile_post_content_text_bcc {
+  margin-top: 9px;
+}
+.Profile_post_content_text_txt {
+  margin-left: 16px;
+  margin-right: 10px;
+  font-size: 10px;
+}
+.Profile_post_content_text_bcc_title {
+  font-size: 15px;
+  margin-left: 41px;
+  margin-bottom: 17px;
+}
+.Profile_post_content_text_bcc_txt {
+  margin-left: 20px;
+  margin-right: 10px;
+  font-size: 10px;
+}
+.Profile_post_content_text_bcc_hr {
+  border: none;
+  height: 0.5px;
+  margin-top: 16px;
+  margin-left: 37px;
+  margin-right: 37px;
+  background-color: black;
+}
+.leave_comment_ta {
+  margin-top: 11px;
+  margin-left: 8px;
+  border: none;
+  width: 225px;
+  height: 21px;
+  border-radius: 15px;
+  font-size: 10px;
+  padding-left: 9px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.Profile_post_content_comments {
+  background-color: #fff;
+  margin-top: 9px;
+  margin-left: 13px;
+  width: 214px;
+  height: 97px;
+  border-radius: 10px;
+}
+.Profile_post_content_comment {
+  display: flex;
+}
+.Profile_post_content_comment_ava_shaq {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.Profile_post_content_comment_texts_shaq {
+  margin-top: 7px;
+  margin-left: 5px;
+}
+.Profile_post_content_comment_text_shaq {
+  font-size: 8px;
+  margin-top: 4px;
+}
+.Profile_post_content_comment_ava {
+  margin-left: 4px;
+  margin-top: 11px;
+}
+.Profile_post_content_comment_texts {
+  margin-top: 11px;
+  margin-left: 5px;
+}
+.Profile_post_content_comment_username {
+  font-size: 10px;
+}
+.Profile_post_content_comment_text {
+  font-size: 8px;
+}
+.Profile_post_content_comment_time {
+  font-size: 6px;
+  color: rgba(0, 0, 0, 0.5);
+  margin-left: 146px;
+  text-decoration: underline;
+}
+
+.Main_post_content_img_extended {
+  width: 800px;
+  border-radius: 20px;
+}
+.mod_win_close {
+  position: absolute;
+  cursor: pointer;
+  left: 750px;
+  top: 10px;
+}

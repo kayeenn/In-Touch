@@ -1,0 +1,51 @@
+.Might_know_posts {
+    float: right;
+}
+.Might_know_channel {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Might_know_title {
+    margin-right: 18px;
+    font-size: 12px;
+    margin-bottom: 16px;
+}
+.Might_know_channel img{
+    flex-basis: 20%;
+    margin-right: 25px;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+.Might_know_channel p {
+    padding-right: 7px;
+    flex-basis: 63%;
+    margin-top: 8px;
+    font-size: 12px;
+    text-align: right;
+}
+.Might_know hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    width: 150px;
+    padding-top: 0.5px;
+    border: none;
+    background-color: black;
+}
+.Might_know {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+footer {
+    margin-top: 23px;
+    margin-right: 25px;
+    width: 126px;
+
+}
+footer p {
+    font-size: 12px;
+    color: #585858;
+}

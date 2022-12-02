@@ -1,0 +1,211 @@
+.DialogWin {
+  height: 1250px;
+
+  flex-basis: 70%;
+
+  padding-top: 80px;
+}
+
+.Main_part_top {
+  height: 71px;
+  background-color: #d5cee4;
+  display: flex;
+}
+
+.Main_part_top img {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin-left: 27px;
+  margin-top: 9px;
+}
+
+.Main_part_top p {
+  font-size: 20px;
+  margin-top: 24px;
+  margin-left: 17px;
+}
+
+.Main_part {
+  height: 1040px;
+  background-image: url("C:\VSCode\my-app\public\Pictures\Rectangle_16.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+.hr_dialog {
+  border: none;
+  background-color: black;
+  height: 2px;
+}
+
+.another {
+  margin-top: 20px;
+  margin-left: 27px;
+}
+
+.another p {
+  font-size: 12;
+  color: #870a30;
+  margin-left: 7px;
+  padding-top: 7px;
+}
+
+.you {
+  margin-top: 20px;
+  margin-right: 27px;
+}
+
+.you p {
+  font-size: 12;
+  color: #ffff;
+  margin-left: 7px;
+  padding-top: 7px;
+}
+
+.yesterday {
+  width: 87px;
+  height: 27px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  color: #565656;
+}
+
+.yesterday p {
+  margin-left: 8px;
+  margin-top: 5px;
+}
+
+.size_1 {
+  height: 45px;
+  width: 228px;
+  border-radius: 10px 10px 10px 0px;
+  background-color: #ffff;
+}
+
+.size_2 {
+  height: 45px;
+  width: 228px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_3 {
+  height: 38px;
+  width: 228px;
+  border-radius: 10px 10px 10px 0px;
+  background-color: #ffff;
+}
+
+.size_4 {
+  height: 38px;
+  width: 84px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_5 {
+  height: 38px;
+  width: 64px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_6 {
+  height: 38px;
+  width: 80px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_7 {
+  height: 52px;
+  width: 228px;
+  border-radius: 10px 10px 10px 0px;
+  background-color: #ffff;
+}
+
+.size_8 {
+  height: 104px;
+  width: 228px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_9 {
+  height: 84px;
+  width: 228px;
+  border-radius: 10px 10px 10px 0px;
+  background-color: #ffff;
+}
+
+.size_10 {
+  height: 84px;
+  width: 228px;
+  border-radius: 10px 10px 0px 10px;
+  background-color: #870a30;
+  float: right;
+}
+
+.size_11 {
+  height: 38px;
+  width: 228px;
+  border-radius: 10px 10px 10px 0px;
+  background-color: #ffff;
+}
+
+.your_message {
+  height: 57px;
+  background-color: #d5cee4;
+  display: flex;
+}
+
+.mes_smile {
+  width: 19px;
+  height: 19px;
+  margin-top: 17px;
+  margin-left: 14px;
+}
+
+.mes_paper {
+  width: 19px;
+  height: 19px;
+  margin-top: 17px;
+  margin-left: 6px;
+}
+
+.type_mes {
+  width: 80%;
+  height: 26px;
+  background-color: #ffff;
+  border-radius: 15px;
+  margin-top: 14px;
+  margin-left: 6px;
+}
+
+.type_in {
+  width: 90%;
+  height: 26px;
+  background-color: #ffff;
+  border-radius: 15px;
+  margin-top: 14px;
+  margin-left: 6px;
+  border: none;
+  padding-left: 10px;
+}
+
+.mes_mic {
+  width: 18px;
+  height: 26px;
+  margin-top: 14px;
+  margin-left: 6px;
+}
